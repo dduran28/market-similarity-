@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rf-research",
+  "private_key_id": "1b6864db0b881927a93adf401940b18023605ec4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChzflXu/yyLv5b\nck8VxDpVxXMi83zrVPVrGj8cbqW0NdQOs2giBvK1UMXJZEBdVkEITH5gVkrY6Hxu\nhWsShnlLtLVfc2Gsu40YxQvi5OYjr5FgP94zbG6Q89PnR5FoZVcU2ikT//JY/Fv8\nlQMzfdnH+pgNyi34kEOrg6OrXEGz8nFFUT+3vPQ8/K2FkrTBii5l31UCUTSdZGDO\ncdfQ0Z10NJwcn+kIvQURPFEXDpjqUAg83g6J0BnXcOcpFKLGIeU29/x2zds3hwkn\nLCM9kiFtv0sDwPjkX3XKQh+jaxSlNphhULliH+uWs2t3yYWpByHbpWMKcHTTdHjh\njxLYRpmXAgMBAAECggEAEe8ik/biK13KE5i361G0pY0dFeKnFe50xUpDdINPGopc\n1sRL5nmerTomsgvKlo3Y53KTD1qBMUmTgSyIkaUWDK4a7Fl9mgevu+8bQirc11e+\nZUyu9EQwfSCJfDkShN+2pzkHFJBp7DMMfxKFKE/qs5+y+tROBB75YSlWGsg/ABLS\nAR8lPP4+xctBRZGTbwH3DrenLwk6bAIRMtyomboyT1EJ6dNOUIwxRiuddizl8Far\nZ1FfA68dGWDzX0QDNea36vPJiFviKRpQtPqIyK/mebAnYMSo95gZZOiZXf1wUvmP\nnDL0k8on7vp7PLuqAYESkv0dPTt6KDr9dKN2nTXmAQKBgQDaO++L5A7kt6jCF53Z\n6jC+gMhrQfOUE3P50OqoZsxDGu0dRJO6CBaev8zn+0i4Kk5uiJhjSVUpJfg322nO\nKX9fxcbvKQ8iLtPWmvoEtCBs4N8dCEAk1rPNTm8yBvtjMYoTITFChVJMHCqrMgHq\nC5OqCM5ltuDsNZPoWVJvfbNDTwKBgQC9ziJS+eaY9uCjycSbqpzjdy3S9etkBPzn\n8cMdtXtXwgrV3KgXLxTa9RGt1p1qbu1zbncRIqkmhq9+zWg0r3TskpyYJzXk1zP6\nv60fjRXSqWZYPZ3Oi/D66kYFD8qJZuuVZmBIYwztiRwgcPR7Ao70TBWSY5sdWXd7\nroxP4FZTOQKBgC7Gj/adADA3yV0osLXHg4Ehm1OaBDpl3QLbq6BCwF9VwyL10vAZ\n0bdfBu1mJ9UJhFwevQLy8eTq9YQLbGc678k4XAZg95RtEwy5lQMzFIwhutC/Nvhu\naIWF3UGMy48cTCsDf0pxxwz3MJIXGt/ucU0NrCeTBiy64yP3GTs6ZxTzAoGBAIMK\nE4xx15B3sTOjE0fdjJ9GIq7o9XCCORDxSqHyL4uw/cYUp0AKUz2vwFriNp/Kocj1\n1OJRqbJdfj/vFCh7kh/aQJ6TQ5QQN2TAfIex4gUkyvHU6GQ3HVI998V613vxQGhO\n295d9AjyhianlUJvy75B4QrGFcs3f1Q2d8yVt0ORAoGAAX0aTTZRf+ItSyTTWrsf\nlHuOO7Sh7VhcXLzbMQi+/L+fNVeAs2HO0hu20nWlVFGcysZ9r8icO2Q2R3Bs2Ddy\nFExqTOMTwh9FJd45LL2jIG5Z1olEG4XSIBAuV5R8l5TSryOqJ5V3BQoUFR4MCo0G\ncHoaMUSNIzt5GpKBUdH1MX8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rialtoproject@rf-research.iam.gserviceaccount.com",
+  "client_id": "103592971077928926937",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rialtoproject%40rf-research.iam.gserviceaccount.com"
+}
